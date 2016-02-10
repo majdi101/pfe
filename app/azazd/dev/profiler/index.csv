@@ -1,0 +1,14 @@
+352260,127.0.0.1,GET,http://localhost/~mjr/projetTest/web/app_dev.php/hello/World,1455103444,b13e65,200
+b13e65,127.0.0.1,GET,http://localhost/~mjr/projetTest/web/app_dev.php/hello/World,1455103444,,404
+20402a,127.0.0.1,GET,http://localhost/~mjr/projetTest/web/app_dev.php/,1455103498,,200
+d08142,127.0.0.1,GET,http://localhost/~mjr/projetTest/web/app_dev.php/,1455103775,,200
+5e73d7,127.0.0.1,GET,http://localhost/~mjr/projetTest/web/app_dev.php/hello/World,1455108455,5dac09,200
+5dac09,127.0.0.1,GET,http://localhost/~mjr/projetTest/web/app_dev.php/hello/World,1455108455,,404
+98c8e7,127.0.0.1,GET,http://localhost/~mjr/projetTest/web/app_dev.php/,1455108460,,200
+1493a8,127.0.0.1,GET,http://localhost/~mjr/projetTest/web/app_dev.php/,1455108470,,200
+1906e8,127.0.0.1,GET,http://localhost/~mjr/projetTest/web/app_dev.php/,1455108651,,200
+5263d2,127.0.0.1,GET,http://localhost/~mjr/projetTest/web/app_dev.php/hello/joe,1455108778,f1a36b,200
+f1a36b,127.0.0.1,GET,http://localhost/~mjr/projetTest/web/app_dev.php/hello/joe,1455108778,,404
+473cd6,127.0.0.1,GET,http://localhost/~mjr/projetTest/web/app_dev.php/Hello/joe,1455108791,053475,200
+053475,127.0.0.1,GET,http://localhost/~mjr/projetTest/web/app_dev.php/Hello/joe,1455108791,,404
+6e8997,127.0.0.1,GET,http://localhost/~mjr/projetTest/web/app_dev.php/,1455108888,,200

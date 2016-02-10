@@ -1,0 +1,3 @@
+pfe_test1_homepage:
+    path:     /
+    defaults: { _controller: PfeTest1Bundle:Default:index }
